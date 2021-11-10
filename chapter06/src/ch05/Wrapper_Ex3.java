@@ -42,9 +42,12 @@ public class Wrapper_Ex3 {
 		System.out.println("i1 + i2 = " + (i1 + i2));
 		System.out.println("i1 * i2 = " + (i1 * i2));
 		
-		System.out.println("문자열 byte 값 변환 : " + b);
-		System.out.println("문자열 int 값 변환 : " + i);
-		System.out.println(b);
+//		System.out.println("문자열 byte 값 변환 : " + b);
+//		System.out.println("문자열 int 값 변환 : " + i);
+//		System.out.println(b);
+		
+		// 한글깨짐 확인코드!!!!
+		
 		
 	}
 }
